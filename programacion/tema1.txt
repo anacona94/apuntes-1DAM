@@ -1,3 +1,5 @@
 Tema !: Introducción a la programación
 -Algoritmos
 -Diagramas de flujo
+-Estructuras de control: if, while, for
+ Edición para ampliar apuntes
